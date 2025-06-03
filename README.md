@@ -22,8 +22,11 @@ A simple Node.js command-line application that generates a QR code image from a 
 git clone https://github.com/your-username/qr-code-project.git
 cd qr-code-project
 npm install
+```
+## 🧪 Usage
 
-
-🧪 Usage
 Run the project with:
+
+```bash
 node index.js
+```

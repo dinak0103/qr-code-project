@@ -23,3 +23,7 @@ git clone https://github.com/your-username/qr-code-project.git
 cd qr-code-project
 npm install
 
+
+🧪 Usage
+Run the project with:
+node index.js

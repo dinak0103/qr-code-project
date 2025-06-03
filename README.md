@@ -23,6 +23,3 @@ git clone https://github.com/your-username/qr-code-cli.git
 cd qr-code-cli
 npm install
 
-## 🧪 Usage
-
-Run the project with:

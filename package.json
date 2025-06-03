@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.3.7",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-project",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dina K",
+  "license": "ISC",
+  "description": "A simple Node.js command-line application that generates a QR code image from a user-provided URL and saves both the QR code and the URL to your local filesystem."
+}
